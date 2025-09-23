@@ -1,0 +1,15 @@
+h1{
+    color:darkgreen;
+}
+p{
+    color: gray;
+}
+body{
+    background-color:rgb(255,255,100); 
+    /* rgb = red green and blue and the numbers defies the color density of rgb; min:0 and max: 255 */
+}
+button{
+    color: red;
+    background-color:#01af00;
+    /* Hex(Hexadecimal) = same like rgb but has 16 digits 0 - 9 and then a - f higher the digit higher the intensity starts with '#'*/
+}
